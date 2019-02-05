@@ -30,7 +30,6 @@ package { 'sqlite',
         type = 'gnu',
         options = {
             '--disable-editline',
-            '--disable-threadsafe',
             '--disable-dynamic-extensions',
             '--disable-fts4',
             '--disable-fts5',
